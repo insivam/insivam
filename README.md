@@ -1,4 +1,4 @@
-## Hi there, I am Insivam 👋 He/him
+## Hi there, I am insivam 👋 He/him
  <div>
   <a href="https://github.com/Insivam">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=insivam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
