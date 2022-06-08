@@ -47,7 +47,4 @@
 [**Generation**](brasil.generation.org) • BootCamp \
 Languages & Technologies: `React JS`, `Java`, `Spring`, `HTML`, `CSS`, `Git`, `MySQL`  \
 Featured Projects: [Discoleta](https://github.com/Discoleta) & [Magister](https://github.com/insivam/Magister)
-
-Take a look at my full work experience, education and certifications: 
-[LinkedIn](https://www.linkedin.com/in/vitor-edsr/)
 </details>
