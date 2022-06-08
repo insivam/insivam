@@ -34,3 +34,19 @@
   ##
 
 ![Snake animation](https://github.com/Insivam/Insivam/blob/output/github-contribution-grid-snake.svg)
+  
+ ##
+ 
+<details align="left"/>
+   <summary><b>Experience</b></summary>
+   <br/>
+    
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://i.imgur.com/hCMyZKz.png"/>](https://brazil.generation.com.br/)
+**Full Stack Developer** \
+[**Generation**](brasil.generation.org) • BootCamp \
+Languages & Technologies: `React JS`, `Java`, `Spring`, `HTML`, `CSS`, `Git`, `MySQL`  \
+Featured Projects: [Discoleta](https://github.com/Discoleta) & [Magister](https://github.com/insivam/Magister)
+
+Take a look at my full work experience, education and certifications: 
+[LinkedIn](https://www.linkedin.com/in/vitor-edsr/)
+</details>
