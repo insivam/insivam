@@ -42,7 +42,7 @@
    <summary><b>Experience</b></summary>
    <br/>
     
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://i.imgur.com/hCMyZKz.png"/>](https://brazil.generation.com.br/)
+[<img align="left" height="94px" width="94px" alt="Generation" target="_blank" src="https://i.imgur.com/hCMyZKz.png"/>](https://brazil.generation.com.br/)
 **Full Stack Developer** \
 [**Generation**](brasil.generation.org) • BootCamp \
 Languages & Technologies: `React JS`, `Java`, `Spring`, `HTML`, `CSS`, `Git`, `MySQL`  \
