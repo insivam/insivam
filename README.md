@@ -1,5 +1,3 @@
-## Hi there, I am insivam 👋 He/him
-
 <div align="center">
    <a href="https://github.com/insivam">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=insivam&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
