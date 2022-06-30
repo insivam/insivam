@@ -5,7 +5,7 @@
 </div>
 
 
----
+##
  
 <div align="center">
     <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -29,11 +29,11 @@
   <a href="https://discordapp.com/users/507330590467424257" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
----
+##
 
 ![Snake animation](https://github.com/Insivam/Insivam/blob/output/github-contribution-grid-snake.svg)
 
----
+##
  
 <details align="left"/>
    <summary><b>Experience</b></summary>
