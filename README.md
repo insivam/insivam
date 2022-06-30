@@ -5,7 +5,7 @@
   
 </div>
   
-##
+---
  
 <div align="center">
     <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -21,7 +21,7 @@
     <img alt="Nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
 </div>
 
-##
+---
  
 <div align="center">
  <a href="https://www.linkedin.com/in/vitor-edsr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -33,7 +33,7 @@
 
 ![Snake animation](https://github.com/Insivam/Insivam/blob/output/github-contribution-grid-snake.svg)
 
-##
+---
  
 <details align="left"/>
    <summary><b>Experience</b></summary>
