@@ -36,8 +36,14 @@
 <details align="left"/>
    <summary><b>Experience</b></summary>
    <br/>
+   
+[<img align="left" height="94px" width="94px" alt="Linx" target="_blank" src="https://i.imgur.com/YvDgmTy.png"/>](https://www.linx.com.br/)
+**Technical Support Analyst** \
+[**Linx**](https://www.linx.com.br/) • Full-time \
+Languages & Technologies: `React JS`, `HTML`, `CSS`, `Git`, `MySQL` \
+<br/>
     
-[<img align="left" height="94px" width="94px" alt="Generation" target="_blank" src="https://i.imgur.com/hCMyZKz.png"/>](https://brazil.generation.com.br/)
+[<img align="left" height="94px" width="94px" alt="Generation" target="_blank" src="https://i.imgur.com/hCMyZKz.png"/>](https://brazil.generation.org/)
 **Full Stack Developer** \
 [**Generation**](https://brazil.generation.org/) • BootCamp \
 Languages & Technologies: `React JS`, `Java`, `Spring`, `HTML`, `CSS`, `Git`, `MySQL`  \
