@@ -12,6 +12,7 @@
     <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img alt="Spring" height="30" src="https://images.marketpath.com/9dda7041-2870-4a96-bf1e-dd8342e86e7c/image/0237aecb-a2a2-45ab-90ee-55b6c5486482/liquid-markup.png">
     <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">  
     <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,12 +41,12 @@
 [<img align="left" height="94px" width="94px" alt="Linx" target="_blank" src="https://i.imgur.com/YvDgmTy.png"/>](https://www.linx.com.br/)
 **Technical Support Analyst** \
 [**Linx**](https://www.linx.com.br/) • Full-time \
-Languages & Technologies: `React JS`, `HTML`, `CSS`, `Git`, `MySQL` \
+Languages & Technologies: `LIQUID`, `HTML`, `CSS`, `SQL`, `SOLR`, `KIBANA` \
 <br/>
     
 [<img align="left" height="94px" width="94px" alt="Generation" target="_blank" src="https://i.imgur.com/hCMyZKz.png"/>](https://brazil.generation.org/)
 **Full Stack Developer** \
 [**Generation**](https://brazil.generation.org/) • BootCamp \
-Languages & Technologies: `React JS`, `Java`, `Spring`, `HTML`, `CSS`, `Git`, `MySQL`  \
+Languages & Technologies: `REACT`, `JAVA`, `SPRING`, `HTML`, `CSS`, `GIT`, `SQL`  \
 Featured Projects: [Discoleta](https://github.com/Discoleta) & [Magister](https://github.com/insivam/Magister)
 </details>
