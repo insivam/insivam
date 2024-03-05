@@ -13,7 +13,7 @@
     <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img alt="Spring" height="30" src="https://images.marketpath.com/9dda7041-2870-4a96-bf1e-dd8342e86e7c/image/0237aecb-a2a2-45ab-90ee-55b6c5486482/liquid-markup.png">
-    <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">  
+    <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
     <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -28,9 +28,12 @@
   <a href="https://discordapp.com/users/507330590467424257" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
+
+<!--
 ##
 
 ![Snake animation](https://github.com/Insivam/Insivam/blob/output/github-contribution-grid-snake.svg)
+-->
 
 ##
  
