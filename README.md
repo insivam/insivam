@@ -37,7 +37,7 @@
 
 ##
  
-<details align="left"/>
+<details align="left" open/>
    <summary><b>Experience</b></summary>
    <br/>
    
