@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://github.com/insivam">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=insivam&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=insivam&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true&layout=compact&hide=contribs,issues&bg_color=00000000"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insivam&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&bg_color=00000000"/>
 </div>
 
